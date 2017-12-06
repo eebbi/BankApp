@@ -6,7 +6,17 @@ amount of money to use and either deposit or withdraw that amount with the butto
 
 The application is done in Java and Swing, also with the help of WindowBuilder to make a working UI.
 
+Installation
+---
 
+Download the project files and open them in a IDE that you prefer (for example, Eclipse), and you are ready to go!
+
+
+---
+
+
+Usage
+---
 When the user first starts the application, there is a textfield to input your name in, and a "Login" button below that. 
 The input on the "your name" textfield does not matter. 
 
